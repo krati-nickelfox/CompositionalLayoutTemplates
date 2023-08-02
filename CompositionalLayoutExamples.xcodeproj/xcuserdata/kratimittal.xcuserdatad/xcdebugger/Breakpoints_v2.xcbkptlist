@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0AEC15C4-B603-4FCA-B84D-597FDB3C2D3E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B34ECF67-72A2-4329-AAA6-E34371CBF42D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutExamples/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "configureDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B34ECF67-72A2-4329-AAA6-E34371CBF42D - 50c8b83fc9e08c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Foundation.IndexPath, Swift.Int) -&gt; __C.UICollectionViewCell in CompositionalLayoutExamples.ViewController.configureDataSource() -&gt; ()"
+                  moduleName = "CompositionalLayoutExamples"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kratimittal/Documents/GithubProjects/CompositionalLayoutExamples/CompositionalLayoutExamples/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "B34ECF67-72A2-4329-AAA6-E34371CBF42D - 4b15177029515a3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Foundation.IndexPath, Swift.Int) -&gt; Swift.Optional&lt;__C.UICollectionViewCell&gt; in CompositionalLayoutExamples.ViewController.configureDataSource() -&gt; ()"
+                  moduleName = "CompositionalLayoutExamples"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kratimittal/Documents/GithubProjects/CompositionalLayoutExamples/CompositionalLayoutExamples/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "AF8C0A44-B5E4-4A7E-AB8A-5F897A662E66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EB852D6-9ED3-4541-9885-1CC47964A4A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutExamples/TemplateListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "didSelectMenuItemAt(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
